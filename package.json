@@ -1,0 +1,20 @@
+{
+  "name": "javascript-hangman-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node Game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-differently/JavaScript-Hangman-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-differently/JavaScript-Hangman-Lab/issues"
+  },
+  "homepage": "https://github.com/code-differently/JavaScript-Hangman-Lab#readme"
+}
