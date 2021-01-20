@@ -51,6 +51,7 @@ let hangman = new Hangman("Code Differently");
 * Modify `Game.js` to allow the user to enter the hidden message in the terminal before the game rather than hardcoding it in the `Game.js` file.
 * Prevent the user from reguessing a letter
 * Improve the console output
+
 ![ui](optionalUI.jpg)
 
 
