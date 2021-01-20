@@ -45,6 +45,7 @@ let hangman = new Hangman("Code Differently");
 * If the user guesses a letter not in the hidden message, they lose a remaining guess
 * If a user loses all their remaining guesses, they lose
 * If a user reveals all of the letters in the hidden message, they win!
+
 ![win](https://media.giphy.com/media/o75ajIFH0QnQC3nCeD/giphy.gif)
 
 ## Optional
